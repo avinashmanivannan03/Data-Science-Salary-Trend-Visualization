@@ -27,6 +27,10 @@ This project serves as a comprehensive resource for anyone interested in underst
 - `README.md`: Markdown file containing project description and highlights.
 - `LICENSE`: License information for the project.
 
+## Dataset:
+
+https://github.com/avinashmanivannan03/Data-Science-Salary-Trend-Visualization/blob/main/ds_salaries.csv
+
 ## Usage:
 
 1. Clone the repository:
