@@ -37,7 +37,7 @@ This project serves as a comprehensive resource for anyone interested in underst
 
 ## Navigate to the repository directory:
 
-   cd data-scientist-salary-analysis
+   `cd data-scientist-salary-analysis`
 
 
 ## Contributors:
