@@ -27,6 +27,10 @@ This project serves as a comprehensive resource for anyone interested in underst
 - `README.md`: Markdown file containing project description and highlights.
 - `LICENSE`: License information for the project.
 
+## Files:
+
+CIA-2 Tableau Work Book.twb - Tableau Work Book Containing the Visualization
+
 ## Dataset:
 
 https://github.com/avinashmanivannan03/Data-Science-Salary-Trend-Visualization/blob/main/ds_salaries.csv
